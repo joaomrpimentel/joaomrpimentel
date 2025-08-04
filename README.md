@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&duration=2000&pause=500&color=53F7AC&vCenter=true&random=false&width=450&lines=Hey!+It's+Jo%C3%A3o;Currently%3A+Poking+at+windows+with+a+stick;Currently%3A+Writing+magical+runes+(coding);Currently%3A+Taming+dragons+(solving+bugs))](https://git.io/typing-svg)
 
-## `💬` **Me**: Full Stack Developer at LEDs, majoring in Information Systems at IFES, and cybersecurity enthusiast.
+## `💬` **Me**: DevOps Team Lead at LEDs, majoring in Information Systems at IFES, and cybersecurity enthusiast.
 
 
 ## `👨‍💻` DEVELOPMENT
