@@ -1,4 +1,4 @@
-## Hi, I'm João Pimentel! I break stuff and occasionally create some silly stuff.
+## `👋` Hi, I'm João Pimentel! I break stuff and occasionally create some silly stuff.
 
 ## `💬` **Me**:  Platform Team Lead at LEDs, B.Sc. in Information Systems, and cybersecurity enthusiast.
 
